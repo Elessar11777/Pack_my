@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25c796a9-5167-4525-a452-b17e9fba4f00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25c796a9-5167-4525-a452-b17e9fba4f00" name="Default Changelist" comment="New" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +33,19 @@
       <option name="presentableId" value="Default" />
       <updated>1593948180863</updated>
     </task>
+    <task id="LOCAL-00001" summary="New">
+      <created>1594067546831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594067546831</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New" />
+    <option name="LAST_COMMIT_MESSAGE" value="New" />
   </component>
   <component name="WindowStateProjectService">
     <state x="662" y="355" width="657" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594064219517">
@@ -47,10 +56,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1593948204830" />
-    <state x="855" y="453" width="282" height="207" key="Github.ShareDialog" timestamp="1594064838701">
+    <state x="855" y="453" width="282" height="207" key="Github.ShareDialog" timestamp="1594067740645">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="855" y="453" width="282" height="207" key="Github.ShareDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1594064838701" />
+    <state x="855" y="453" width="282" height="207" key="Github.ShareDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1594067740645" />
     <state x="848" y="240" width="286" height="633" key="Github.UntrackedFilesDialog" timestamp="1594064813488">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
